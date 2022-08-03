@@ -23,6 +23,7 @@ function Banner() {
                 <h1 className="description">{movie?movie.overview:null}</h1>
             </div>
             <div className="fade_button">
+                
 
             </div>
         </div>
